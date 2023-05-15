@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GooshFen
-- 👀 I’m interested in PHP, react, js, node.js jquery...
+- 👀 I’m interested in PHP, react, js, node.js, jquery...
 - 📫 You can reach me at gautier.fenaux@gmail.com
 
 <!---
